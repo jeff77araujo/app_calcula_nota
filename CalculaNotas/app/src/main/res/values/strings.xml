@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CalculaNotas</string>
+    <string name="text_calculate">Calcular</string>
+    <string name="number_of_absences">Número de faltas</string>
+    <string name="message_alert">Mensagem</string>
+    <string name="nota_4">Nota 4</string>
+    <string name="nota_3">Nota 3</string>
+    <string name="nota_2">Nota 2</string>
+    <string name="nota_1">Nota 1</string>
+    <string name="text_title">Vamos descobrir se você passou?</string>
+</resources>
